@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, shell scripting, Linux, automation, system administration..
 - 🌱 I’m currently learning Golang & Ansible
 - ✉️ [emre@meyagci.com](mailto:emre@meyagci.com)
-- 🌐 [meyagci.xyz](https://www.meyagci.xyz)
+- 🌐 [meyagci.com](https://www.meyagci.com)
 - 🌐 [Linkedin](https://www.linkedin.com/in/memreyagci/)
 <!---
 memreyagci/memreyagci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
