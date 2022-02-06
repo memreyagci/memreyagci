@@ -1,6 +1,6 @@
-- 👋 I’m Emre Yagci
-- 👀 I’m interested in Python, shell scripting, Linux, automation, system administration..
-- 🌱 I’m currently learning Golang & Ansible
+- 👋 I’m Musa Emre Yagci
+- 👀 I’m interested in Java, Selenium, testing, automation, Python, shell scripting, Linux..
+- 🌱 I’m currently learning Java
 - ✉️ [emre@meyagci.com](mailto:emre@meyagci.com)
 - 🌐 [meyagci.com](https://www.meyagci.com)
 - 🌐 [Linkedin](https://www.linkedin.com/in/memreyagci/)
