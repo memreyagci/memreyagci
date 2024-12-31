@@ -4,7 +4,7 @@
 I’m a **Quality Assurance Engineer/Software Tester** with experience in **manual** and **automation testing**. I’ve worked on testing **Enterprise Resource Planning (ERP)** and **Library Management** software using **Agile/Scrum** methodologies.
 
 ### ⚙️ Skills
-- **Languages**: Java, Python, SQL, Bash
+- **Languages**: Java, Python, SQL, C#, Bash
 - **Test Automation**: Selenium WebDriver, Cucumber, Behave, RestAssured, Postman, JDBC
 - **Frameworks**: BDD, Data Driven, Page Object Model (POM)
 - **CI/CD**: Jenkins, Maven, Git, GitHub
@@ -13,7 +13,7 @@ I’m a **Quality Assurance Engineer/Software Tester** with experience in **manu
 
 ### 📚 Education
 - **SDET Bootcamp** at CYDEO
-- **Computer Engineering** at Vistula University, Warsaw
+- **Computer Engineering** at Vistula University, Warsaw, Poland
 
 ### 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/meyagci)
