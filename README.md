@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Emre Yagci
 
-<!--
-**memreyagci/memreyagci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I’m a **Quality Assurance Engineer/Software Tester** with experience in **manual** and **automation testing**. I’ve worked on testing **Enterprise Resource Planning (ERP)** and **Library Management** software using **Agile/Scrum** methodologies.
 
-Here are some ideas to get you started:
+### ⚙️ Skills
+- **Languages**: Java, Python, SQL, Bash
+- **Test Automation**: Selenium WebDriver, Cucumber, Behave, RestAssured, Postman, JDBC
+- **Frameworks**: BDD, Data Driven, Page Object Model (POM)
+- **CI/CD**: Jenkins, Maven, Git, GitHub
+- **Environments**: Linux, Windows
+- **Familiar with**: Docker, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Education
+- **SDET Bootcamp** at CYDEO
+- **Computer Engineering** at Vistula University, Warsaw
+
+### 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/meyagci)
+- [Email](mailto:contact@meyagci.com)
+- [Personal website](https://www.meyagci.com)
